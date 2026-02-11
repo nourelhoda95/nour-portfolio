@@ -22,9 +22,10 @@ export function Projects() {
       description:
         "A feature-rich task management application built with React, featuring drag-and-drop functionality, local storage persistence, and a clean, intuitive interface.",
       technologies: [
-        "React",
-        "TypeScript",
-        "Tailwind CSS",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Responsive Design",
         "Local Storage",
       ],
       features: [
