@@ -130,7 +130,7 @@ export function Projects() {
         "SEO optimized",
         "Responsive design",
         "Data persistence",
-        "AI integration",
+      
       
       ],
       highlights: [
