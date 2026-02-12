@@ -105,8 +105,8 @@ export function Projects() {
         "Modern UI/UX",
         "AI integration",
       ],
-      github: "https://github.com/nourelhoda95/ecommerce-task.git",
-      demo: "https://lily-fire-11847493.figma.site/",
+      github: "https://github.com/nourelhoda95/e-commerce-.git",
+      demo: "https://e-commerce-one-snowy.vercel.app/",
       gradient: "from-blue-500 to-cyan-500",
     },
       {
@@ -142,8 +142,8 @@ export function Projects() {
         "Modern UI/UX",
         "AI integration",
       ],
-      
-      demo: "https://tacky-flight-05242744.figma.site/",
+      github: "https://github.com/nourelhoda95/gaming-project-react.git",
+      demo: "https://gaming-project-react-6q5x.vercel.app/",
       gradient: "from-blue-500 to-cyan-500",
     },
   ];
