@@ -109,6 +109,42 @@ export function Projects() {
       demo: "https://e-commerce-one-snowy.vercel.app/",
       gradient: "from-blue-500 to-cyan-500",
     },
+        {
+      title: "E-commerce Platform",
+      description:
+        "Full-stack e-commerce application with 9+ pages including admin dashboard, featuring comprehensive product management and user authentication.",
+      technologies: [
+        "HTML5",
+        "React",
+        "vite",
+        "Tailwind CSS",
+        "material-ui",
+        
+        
+      ],
+      features: [
+        "Mobile-first approach",
+        "Smooth scroll animations",
+        "Interactive elements",
+        "Cross-browser compatibility",
+        "SEO optimized",
+        "Responsive design",
+        "Data persistence",
+        "AI integration",
+      
+      ],
+      highlights: [
+        "Pixel-perfect design",
+        "Fast loading times",
+        "Modern CSS Grid/Flexbox",
+        "Professional aesthetics",
+        "Modern UI/UX",
+      
+      ],
+      github: "https://github.com/nourelhoda95/ecommerce-task.git",
+      demo: "https://ecommerce-task-h5mf.vercel.app/",
+      gradient: "from-blue-500 to-cyan-500",
+    },
       {
       title: "NEXUSGAMES",
       description:
