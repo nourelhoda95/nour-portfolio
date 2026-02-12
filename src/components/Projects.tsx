@@ -110,7 +110,7 @@ export function Projects() {
       gradient: "from-blue-500 to-cyan-500",
     },
         {
-      title: "E-commerce Platform",
+      title: "E-commerce ",
       description:
         "Full-stack e-commerce application with 9+ pages including admin dashboard, featuring comprehensive product management and user authentication.",
       technologies: [
