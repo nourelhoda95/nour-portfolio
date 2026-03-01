@@ -69,15 +69,9 @@ export function Navigation() {
       >
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           {/* Logo */}
-          <motion.button
-            onClick={() => scrollToSection('#')}
-            className="text-2xl bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent"
-            style={{ fontWeight: 700 }}
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-          >
-            NEH
-          </motion.button>
+        <img
+        className='w-16 h-16 object-contain'
+         src="../public/nour-logo.png" alt="Logo" />
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center gap-2">

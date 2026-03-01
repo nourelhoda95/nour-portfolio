@@ -65,11 +65,7 @@ export function Hero() {
         initial="hidden"
         animate="visible"
       >
-        <motion.div variants={itemVariants} className="mb-6">
-          <span className="inline-block px-4 py-2 rounded-full bg-purple-500/10 border border-purple-500/20 backdrop-blur-sm text-purple-400">
-            Welcome to my portfolio
-          </span>
-        </motion.div>
+      
 
         <motion.h1
           variants={itemVariants}
@@ -118,7 +114,7 @@ export function Hero() {
           className="flex items-center justify-center gap-6"
         >
           <a
-            href="https://github.com"
+            href="https://github.com/nourelhoda95"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-full hover:bg-white/10 hover:scale-110 transition-all duration-300"
@@ -126,7 +122,7 @@ export function Hero() {
             <Github className="w-6 h-6" />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/nour-el-hoda-nasr-16a1b0186/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-full hover:bg-white/10 hover:scale-110 transition-all duration-300"
@@ -134,7 +130,7 @@ export function Hero() {
             <Linkedin className="w-6 h-6" />
           </a>
           <a
-            href="mailto:nour@example.com"
+            href="nourelhodanasr188@gmail.com"
             className="p-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-full hover:bg-white/10 hover:scale-110 transition-all duration-300"
           >
             <Mail className="w-6 h-6" />

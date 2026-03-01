@@ -37,12 +37,14 @@ export function LoadingScreen({ onLoadingComplete }: LoadingScreenProps) {
           transition={{ duration: 0.5 }}
           className="mb-8"
         >
-          <h1
-            className="text-6xl bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent"
-            style={{ fontWeight: 700 }}
-          >
-            NEH
-          </h1>
+          <img
+            className="text-2xl bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent"
+
+            src="../public/nour-logo.png"
+            alt="Logo"
+          
+            style={{ fontWeight: 200 }}
+          />
         </motion.div>
 
         <div className="w-64 h-2 bg-white/10 rounded-full overflow-hidden mb-4">
