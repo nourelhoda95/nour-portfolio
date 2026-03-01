@@ -129,12 +129,14 @@ export function Hero() {
           >
             <Linkedin className="w-6 h-6" />
           </a>
-          <a
-            href="nourelhodanasr188@gmail.com"
+        <a
+          href="https://mail.google.com/mail/?view=cm&to=nourelhodanasr188@gmail.com&subject=Hello%20AGENZ"
+          target="_blank"
+          rel="noopener noreferrer"
             className="p-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-full hover:bg-white/10 hover:scale-110 transition-all duration-300"
-          >
-            <Mail className="w-6 h-6" />
-          </a>
+        >
+          <Mail className="w-6 h-6" />
+        </a>
         </motion.div>
       </motion.div>
 
