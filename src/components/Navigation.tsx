@@ -71,7 +71,7 @@ export function Navigation() {
           {/* Logo */}
         <img
         className='w-16 h-16 object-contain'
-         src="../public/nour-logo.png" alt="Logo" />
+         src="nour-logo.png" alt="Logo" />
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center gap-2">
