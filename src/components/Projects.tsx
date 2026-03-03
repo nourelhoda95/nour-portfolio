@@ -182,6 +182,43 @@ export function Projects() {
       demo: "https://gaming-project-react-6q5x.vercel.app/",
       gradient: "from-blue-500 to-cyan-500",
     },
+        {
+      title: "Fashion lens",
+      description:
+        "Fashion Lens is an AI-powered visual search app that lets users upload a clothing photo and instantly find similar items in nearby local stores and online shops with integrated map navigation.",
+      technologies: [
+        "HTML5",
+        "TypeScript",
+        "React",
+        "vite",
+        "Tailwind CSS",
+        "material-ui",
+        
+        
+      ],
+      features: [
+        "Mobile-first approach",
+        "Smooth scroll animations",
+        "Interactive elements",
+        "Cross-browser compatibility",
+        "SEO optimized",
+        "Responsive design",
+        "Data persistence",
+        "AI integration",
+      
+      ],
+      highlights: [
+        "Pixel-perfect design",
+        "Fast loading times",
+        "Modern CSS Grid/Flexbox",
+        "Professional aesthetics",
+        "Modern UI/UX",
+        "AI integration",
+      ],
+      github: "https://github.com/nourelhoda95/fashion-len.git",
+      demo: "https://fashion-len.vercel.app/",
+      gradient: "from-purple-500 to-pink-500",
+    },
   ];
 
   return (
